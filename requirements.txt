@@ -1,0 +1,6 @@
+argparse==1.2.1
+lice==0.4
+matplotlib==1.2.1
+networkx==1.8rc1
+numpy==1.7.1
+wsgiref==0.1.2
