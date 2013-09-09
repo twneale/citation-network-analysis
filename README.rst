@@ -17,4 +17,4 @@ analysis. To get set up, do something like the following:
     # I recommend installing the free anaconda distribution of python from Continuum Analytics: https://store.continuum.io/
     $ pip install -r requirements.txt
 
-The ipython notebook server instance is running here: [https://23.21.44.130:8888/](https://23.21.44.130:8888/).
+The ipython notebook server instance is running here: http://bit.ly/18MTlR2
